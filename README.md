@@ -3,7 +3,7 @@ Spectral Element Discontinuous Galerkin Method with numerically motivated flux s
 
 Authors of this notebook: Ashim Rijal, Kenneth Duru and Sneha Singh
 
-All from Ludwig-Maximilians-University, Munich
+Ludwig-Maximilians-University, Munich
 
 The notebook is based on paper by Duru et. al 2017, link to the paper is given on notebook.
 
