@@ -7,7 +7,7 @@ All from Ludwig-Maximilians-University, Munich
 
 The notebook is based on paper by Duru et. al 2017, link to the paper is given on notebook.
 
-All the detailed descriptions, like what the notebook is doing, are given within the notebook. Hence, notebook itself is self explanatory. Some exercises are given in the notebook to play around with the notebook.
+All the detailed descriptions, like what the notebook is doing, are given within the notebook. Hence, notebook is self explanatory. Some exercises are given in the notebook to play around with the notebook.
 
 In order to run the simulation download main notebook files ElasticWave.ipynb and Friction.ipynb (ElasticWaves.ipynb is for elastic 1D simulations and Friction.ipynb contains implementation of friction laws: linear, slip-weakening and rate-and-state).
 
