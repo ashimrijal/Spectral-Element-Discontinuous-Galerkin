@@ -1,7 +1,7 @@
 # dgFlux
 Spectral Element Discontinuous Galerkin Method with numerically motivated flux scheme
 
-Authors of this notebook: Ashim Rijal, Kenneth Duru and Sneha Singh
+Authors: Kenneth Duru, Ashim Rijal and Sneha Singh
 
 Ludwig-Maximilians-University, Munich
 
